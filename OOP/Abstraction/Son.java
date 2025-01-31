@@ -4,7 +4,11 @@ public class Son extends Parent {
 
     //age is field in Parent abstract class
     public Son(int age){
+<<<<<<< HEAD
       super(age);
+=======
+        super(age);
+>>>>>>> 593b6ec (JNIT5 TESTING)
    
     }
 
@@ -14,7 +18,10 @@ public class Son extends Parent {
     }
 
     @Override
+<<<<<<< HEAD
 
+=======
+>>>>>>> 593b6ec (JNIT5 TESTING)
     void partner(){
         System.out.println("My partener is Chinese");
     }
